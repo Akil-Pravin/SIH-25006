@@ -1,7 +1,4 @@
-Below is a **refined, rewritten, and improved version** of your entire Smart India Hackathon (SIH) proposal.
-It is **fully restructured**, **more professional**, and **unique**, while keeping your original meaning and technical depth.
 
----
 
 # **Smart India Hackathon Workshop**
 
