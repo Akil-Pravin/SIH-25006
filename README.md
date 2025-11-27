@@ -228,14 +228,5 @@ We propose a **Digital Farm Management & Biosecurity Portal** designed specifica
 * **Environmental:** Better waste management
 * **Technological:** Promotes digital agriculture
 
----
-
-# **12. Research & References**
-
-Primary Reference Used (Rewritten Version):
-Link: **[https://pmc.ncbi.nlm.nih.gov/articles/PMC12288695/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12288695/)**
-
-**Rewritten Summary Version (Different from Original):**
-This research article discusses the importance of structured biosecurity programs in preventing the spread of infectious diseases in livestock systems. It highlights how gaps in farm-level practices often lead to disease transmission, emphasizing the need for standardized risk assessment tools, farmer education, and continuous monitoring. The study also stresses that digital platforms can significantly enhance surveillance, decision-making, and policy planning through real-time data collection. The findings support the development of integrated digital tools that can empower farmers, strengthen national disease control strategies, and reduce outbreak-related losses.
 
 
